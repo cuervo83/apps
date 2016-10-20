@@ -1,1 +1,1 @@
-select * from persona
+select * from persona LIMIT 0,1
